@@ -2,6 +2,7 @@
 import socket
 import threading
 
+# 0.0.0.0 is your current IP address
 IP = '0.0.0.0'
 PORT = 9997
 
